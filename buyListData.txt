@@ -1,1 +1,1 @@
-[{"name": "JavaScript","price": 3000},{"name": "Mac","price": 54000},{"name": "Iphone X","price": 32000},{"name": "The Catcher in the Rye","price": 330}{"name": "The Fountainhead","price": 699}]
+[{"name": "JavaScript","price": 3000},{"name": "Mac","price": 54000},{"name": "Iphone X","price": 32000},{"name": "The Catcher in the Rye","price": 330},{"name": "The Fountainhead","price": 699}]
