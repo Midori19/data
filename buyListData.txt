@@ -1,1 +1,1 @@
-[{"name": "JavaScript","price": 1000},{"name": "The Catcher in the Rye","price": 240},{"name": "The Fountainhead","price": 699}]
+[{"name": "JavaScript 大全","price": 1200},{"name": "The Catcher in the Rye","price": 240},{"name": "The Fountainhead","price": 699}]
